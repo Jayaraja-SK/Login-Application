@@ -34,8 +34,8 @@
 ### How to create realtime database in Firebase
 
 1. Create a New Project in Google's Firebase by clicking the icon `Add Project`
-<br/>
-![plot](res/1.jpg)
+<br></br>
+![alt text](res/1.jpg)
 
 <br/>
 2. Give a name for your project and click continue
