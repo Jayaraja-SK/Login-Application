@@ -12,3 +12,19 @@
 		2. Delete Account
 
 
+
+### Databases Used
+
+* `SQLite`
+	- Lightweight database that is created locally and used
+	- Commands are similar to MySQL, OracleSQL
+	- Included with Python and can be used by using `import sqlite3`
+* `Firebase`
+	- A Realtime Database is created in Google's Firebase Database and information is used in the cloud with the help of API's
+	- Data could be written and accessed with the help of secret API keys
+	- NoSQL Database
+
+
+### Required Modules
+
+`pip install firebase_admin` - For Firebase Database
