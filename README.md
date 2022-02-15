@@ -70,11 +70,11 @@
 <br></br>
 ![alt text](res/9.jpg)
 
-11. Select the option `Start in test mode` and click on `Enable`
+11. Select the option `Start in test mode` and click `Enable`
 <br></br>
 ![alt text](res/10.jpg)
 
-12. Now the database has been created successfully. Any changes made using the API Key would get reflected here in the Dashboard
+12. Now the database has been created successfully. Any changes made to the database would get reflected here in the Dashboard
 <br></br>
 ![alt text](res/11.jpg)
 
