@@ -12,25 +12,26 @@
 		2. Delete Account
 
 
-
+<br></br>
 ### Databases Used
 
-* `SQLite`
+* `SQLite` - [Login App using SQLite](Login_App_SQLite.py)<br>
 	- Lightweight database that is created locally and used
 	- Commands are similar to in MySQL, OracleSQL
 	- Included with Python and can be used by using `import sqlite3`
-* `Firebase`
+* `Firebase` - [Login App using Firebase](Login_App_Firebase.py)<br>
 	- A Realtime Database is created in Google's Firebase Database and information is used in the cloud with the help of API's
 	- Data could be written and accessed with the help of secret API keys
 	- NoSQL Database
 
 
+<br></br>
 ### Required Modules
 
 `pip install firebase_admin` - For Firebase Database
 
 
-
+<br></br>
 ### How to create realtime database in Firebase
 
 1. Create a New Project in Google's Firebase by clicking the icon `Add Project`
