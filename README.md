@@ -24,7 +24,7 @@
 	- NoSQL Database
 
 
-### Required Modules
+### Installation Required
 
 `pip install firebase_admin` - For Firebase Database
 
