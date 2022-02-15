@@ -85,4 +85,4 @@
 
 ### Useful Resources
 
-Use this link to learn how to update records in Firebase - (https://www.freecodecamp.org/news/how-to-get-started-with-firebase-using)`
+Use this link to learn how to update records in Firebase - https://www.freecodecamp.org/news/how-to-get-started-with-firebase-using
