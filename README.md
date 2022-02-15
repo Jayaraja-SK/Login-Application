@@ -52,6 +52,7 @@
 ![plot](res/6.jpg)<br>
 
 7. Keep the downloaded file safely
+<br/>
 
 8. Go to `Realtime Database`
 ![plot](res/7.jpg)<br>
