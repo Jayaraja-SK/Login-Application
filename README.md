@@ -76,7 +76,7 @@
 <br></br>
 ![alt text](res/10.jpg)
 
-12. Now the database has been created successfully. Any changes made using the API Key would get refelcted here
+12. Now the database has been created successfully. Any changes made using the API Key would get reflected here in the Dashboard
 <br></br>
 ![alt text](res/11.jpg)
 
@@ -85,4 +85,4 @@
 
 ### Useful Resources
 
-Use this link to learn how to update records in Firebase - `https://www.freecodecamp.org/news/how-to-get-started-with-firebase-using`
+Use this link to learn how to update records in Firebase - (https://www.freecodecamp.org/news/how-to-get-started-with-firebase-using)`
