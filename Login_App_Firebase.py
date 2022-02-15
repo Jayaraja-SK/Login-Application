@@ -9,9 +9,9 @@ from time import sleep
 from getpass import getpass
 
 
-cred = credentials.Certificate("python-eb137-firebase-adminsdk-f1mnw-0d30af0091.json")
+cred = credentials.Certificate("python-eb137-firebase-adminsdk-f1mnw-0d30af0091.json") # PATH OF FILE THAT CONTAINS THE API KEYS INFORMATION
 default_app = firebase_admin.initialize_app(cred, {
-	'databaseURL':"https://python-eb137-default-rtdb.firebaseio.com/"
+	'databaseURL':"https://python-eb137-default-rtdb.firebaseio.com/"  # URL OF THE DATABASE USED
 	})
 ref = db.reference("/")
 
