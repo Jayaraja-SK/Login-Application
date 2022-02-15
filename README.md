@@ -37,42 +37,48 @@
 <br></br>
 ![alt text](res/1.jpg)
 
-<br/>
 2. Give a name for your project and click continue
-<br/>
-![plot](res/2.jpg)<br>
+<br></br>
+![alt text](res/2.jpg)
 
-<br/>
 3. Un-check the option `Enable Google Analytics for this project` and click `Create Project`
-<br/>
-![plot](res/3.jpg)<br>
+<br></br>
+![alt text](res/3.jpg)
 
 4. Click the settings icon and open `Project Settings`
-![plot](res/4.jpg)<br>
+<br></br>
+![alt text](res/4.jpg)
 
 5. Go to `Service Accounts`
-![plot](res/5.jpg)<br>
+<br></br>
+![alt text](res/5.jpg)
 
 6. Select the option `Python` and click `Generate new Private key`
-![plot](res/6.jpg)<br>
+<br></br>
+![alt text](res/6.jpg)
 
 7. Keep the downloaded file safely
-<br/>
+<br></br>
 
 8. Go to `Realtime Database`
-![plot](res/7.jpg)<br>
+<br></br>
+![alt text](res/7.jpg)
 
 9. Click on `Create Database`
-![plot](res/8.jpg)<br>
+<br></br>
+![alt text](res/8.jpg)
 
 10. Click on `Next`
-![plot](res/9.jpg)<br>
+<br></br>
+![alt text](res/9.jpg)
 
 11. Select the option `Start in test mode` and click on `Enable`
-![plot](res/10.jpg)<br>
+<br></br>
+![alt text](res/10.jpg)
 
 12. Now the database has been created successfully. Any changes made using the API Key would get refelcted here
-![plot](res/11.jpg)<br>
+<br></br>
+![alt text](res/11.jpg)
 
 <br>
 <br>
