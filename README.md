@@ -12,7 +12,6 @@
 		2. Delete Account
 
 
-<br></br>
 ### Databases Used
 
 * `SQLite` - [Login App using SQLite](Login_App_SQLite.py)<br>
@@ -25,13 +24,11 @@
 	- NoSQL Database
 
 
-<br></br>
 ### Required Modules
 
 `pip install firebase_admin` - For Firebase Database
 
 
-<br></br>
 ### How to create realtime database in Firebase
 
 1. Create a New Project in Google's Firebase by clicking the icon `Add Project`
