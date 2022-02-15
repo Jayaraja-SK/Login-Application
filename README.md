@@ -35,7 +35,7 @@
 
 1. Create a New Project in Google's Firebase by clicking the icon `Add Project`
 <br/>
-![plot](res/1.jpg)<br>
+![plot](res/1.jpg)
 
 <br/>
 2. Give a name for your project and click continue
